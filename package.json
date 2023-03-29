@@ -2,7 +2,7 @@
   "name": "next-chat-backend",
   "version": "1.0.0",
   "description": "Chat app API",
-  "main": "index.js",
+  "main": "./server.ts",
   "scripts": {
     "start": "node ./dist/server.js",
     "build": "npx tsc",
